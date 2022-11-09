@@ -1,4 +1,8 @@
 ### Hi there 👋
+- Creating my first README file
+- Starting my jurney with GitHub
+- Excited by new environment
+- Happy to finally be here.
 
 <!--
 **givovanni-giorgio/givovanni-giorgio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
